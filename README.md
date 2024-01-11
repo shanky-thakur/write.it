@@ -15,3 +15,5 @@ Support and Feedback
 We're constantly working to improve Write.it. If you have any questions, suggestions, or encounter any issues, please don't hesitate to reach out to our dedicated support team.
 Conect and ask your doubts, if any......
 https://www.linkedin.com/in/deepanshu-thakur-92a17a262/
+
+You must have jdk or a valid jre in your system, also you should use "shanky" as username and "bhai" as password, and simply can write a diary on it, immediately it will update the database, we are currently working on a website which completes the software, till then just launch main.java in your pc and try the test prototype.
